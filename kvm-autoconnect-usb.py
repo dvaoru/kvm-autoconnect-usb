@@ -147,7 +147,6 @@ rm "$CONF_FILE"
 
 class UdevHelper:
     UDEV_FILE = '/etc/udev/rules.d/80-kvm-autoconnect-usb.rules'
-    BASH_FILE = '/home/sasha/Python/KvmAutoconnectUsb/script.sh'
     INDICATOR_LABEL = '#Created automatically by kvm-autoconnect-usb.py'
 
     def __init__(self):
