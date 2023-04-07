@@ -4,7 +4,7 @@ This is a Python script that automates the process of connecting a USB device to
 ## Deploy the script
 Download:
 ```
-wget https://github.com/dvaoru/kvm-autoconnect-usb/blob/main/kvm-autoconnect-usb.py
+wget https://github.com/dvaoru/kvm-autoconnect-usb/releases/latest/download/kvm-autoconnect-usb.py
 ```
 Make executable:
 ```
